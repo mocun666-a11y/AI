@@ -1,0 +1,4 @@
+interface:
+  display_name: "Windows 桌面备忘录"
+  short_description: "制作可实时预览、点击穿透的桌面备忘录并完成测试、打包与安全更新"
+  default_prompt: "使用 $windows-desktop-memo 制作或改进我的 Windows 桌面备忘录，验证后交付可直接运行的程序。"
